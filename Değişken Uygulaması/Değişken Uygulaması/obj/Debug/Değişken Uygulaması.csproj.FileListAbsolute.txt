@@ -1,0 +1,7 @@
+C:\Users\ayber\source\repos\Değişken Uygulaması\Değişken Uygulaması\obj\Debug\Değişken Uygulaması.csprojAssemblyReference.cache
+C:\Users\ayber\source\repos\Değişken Uygulaması\Değişken Uygulaması\obj\Debug\Değişken Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ayber\source\repos\Değişken Uygulaması\Değişken Uygulaması\bin\Debug\Değişken Uygulaması.exe.config
+C:\Users\ayber\source\repos\Değişken Uygulaması\Değişken Uygulaması\bin\Debug\Değişken Uygulaması.exe
+C:\Users\ayber\source\repos\Değişken Uygulaması\Değişken Uygulaması\bin\Debug\Değişken Uygulaması.pdb
+C:\Users\ayber\source\repos\Değişken Uygulaması\Değişken Uygulaması\obj\Debug\Değişken Uygulaması.exe
+C:\Users\ayber\source\repos\Değişken Uygulaması\Değişken Uygulaması\obj\Debug\Değişken Uygulaması.pdb
