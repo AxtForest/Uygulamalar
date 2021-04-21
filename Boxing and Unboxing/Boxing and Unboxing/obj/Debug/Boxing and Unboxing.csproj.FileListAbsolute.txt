@@ -1,0 +1,7 @@
+C:\Users\ayber\source\repos\Boxing and Unboxing\Boxing and Unboxing\bin\Debug\Boxing and Unboxing.exe.config
+C:\Users\ayber\source\repos\Boxing and Unboxing\Boxing and Unboxing\bin\Debug\Boxing and Unboxing.exe
+C:\Users\ayber\source\repos\Boxing and Unboxing\Boxing and Unboxing\bin\Debug\Boxing and Unboxing.pdb
+C:\Users\ayber\source\repos\Boxing and Unboxing\Boxing and Unboxing\obj\Debug\Boxing and Unboxing.csprojAssemblyReference.cache
+C:\Users\ayber\source\repos\Boxing and Unboxing\Boxing and Unboxing\obj\Debug\Boxing and Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\ayber\source\repos\Boxing and Unboxing\Boxing and Unboxing\obj\Debug\Boxing and Unboxing.exe
+C:\Users\ayber\source\repos\Boxing and Unboxing\Boxing and Unboxing\obj\Debug\Boxing and Unboxing.pdb
