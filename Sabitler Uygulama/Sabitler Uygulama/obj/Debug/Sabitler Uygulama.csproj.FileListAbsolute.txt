@@ -1,0 +1,7 @@
+C:\Users\ayber\source\repos\Sabitler Uygulama\Sabitler Uygulama\bin\Debug\Sabitler Uygulama.exe.config
+C:\Users\ayber\source\repos\Sabitler Uygulama\Sabitler Uygulama\bin\Debug\Sabitler Uygulama.exe
+C:\Users\ayber\source\repos\Sabitler Uygulama\Sabitler Uygulama\bin\Debug\Sabitler Uygulama.pdb
+C:\Users\ayber\source\repos\Sabitler Uygulama\Sabitler Uygulama\obj\Debug\Sabitler Uygulama.csprojAssemblyReference.cache
+C:\Users\ayber\source\repos\Sabitler Uygulama\Sabitler Uygulama\obj\Debug\Sabitler Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\ayber\source\repos\Sabitler Uygulama\Sabitler Uygulama\obj\Debug\Sabitler Uygulama.exe
+C:\Users\ayber\source\repos\Sabitler Uygulama\Sabitler Uygulama\obj\Debug\Sabitler Uygulama.pdb
