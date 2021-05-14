@@ -1,0 +1,21 @@
+C:\Users\ayber\source\repos\Örnek soru 2\Örnek soru 2\bin\Debug\Örnek soru 2.exe.config
+C:\Users\ayber\source\repos\Örnek soru 2\Örnek soru 2\bin\Debug\Örnek soru 2.exe
+C:\Users\ayber\source\repos\Örnek soru 2\Örnek soru 2\bin\Debug\Örnek soru 2.pdb
+C:\Users\ayber\source\repos\Örnek soru 2\Örnek soru 2\obj\Debug\Örnek soru 2.csprojAssemblyReference.cache
+C:\Users\ayber\source\repos\Örnek soru 2\Örnek soru 2\obj\Debug\Örnek soru 2.csproj.CoreCompileInputs.cache
+C:\Users\ayber\source\repos\Örnek soru 2\Örnek soru 2\obj\Debug\Örnek soru 2.exe
+C:\Users\ayber\source\repos\Örnek soru 2\Örnek soru 2\obj\Debug\Örnek soru 2.pdb
+C:\Users\ayber\OneDrive\Masaüstü\Örnek soru 1\Örnek soru 2\bin\Debug\Örnek soru 2.exe.config
+C:\Users\ayber\OneDrive\Masaüstü\Örnek soru 1\Örnek soru 2\bin\Debug\Örnek soru 2.exe
+C:\Users\ayber\OneDrive\Masaüstü\Örnek soru 1\Örnek soru 2\bin\Debug\Örnek soru 2.pdb
+C:\Users\ayber\OneDrive\Masaüstü\Örnek soru 1\Örnek soru 2\obj\Debug\Örnek soru 2.csprojAssemblyReference.cache
+C:\Users\ayber\OneDrive\Masaüstü\Örnek soru 1\Örnek soru 2\obj\Debug\Örnek soru 2.csproj.CoreCompileInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\Örnek soru 1\Örnek soru 2\obj\Debug\Örnek soru 2.exe
+C:\Users\ayber\OneDrive\Masaüstü\Örnek soru 1\Örnek soru 2\obj\Debug\Örnek soru 2.pdb
+C:\Users\ayber\OneDrive\Masaüstü\Yeni klasör (3)\Örnek soru 1\Örnek soru 2\bin\Debug\Örnek soru 2.exe.config
+C:\Users\ayber\OneDrive\Masaüstü\Yeni klasör (3)\Örnek soru 1\Örnek soru 2\bin\Debug\Örnek soru 2.exe
+C:\Users\ayber\OneDrive\Masaüstü\Yeni klasör (3)\Örnek soru 1\Örnek soru 2\bin\Debug\Örnek soru 2.pdb
+C:\Users\ayber\OneDrive\Masaüstü\Yeni klasör (3)\Örnek soru 1\Örnek soru 2\obj\Debug\Örnek soru 2.csprojAssemblyReference.cache
+C:\Users\ayber\OneDrive\Masaüstü\Yeni klasör (3)\Örnek soru 1\Örnek soru 2\obj\Debug\Örnek soru 2.csproj.CoreCompileInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\Yeni klasör (3)\Örnek soru 1\Örnek soru 2\obj\Debug\Örnek soru 2.exe
+C:\Users\ayber\OneDrive\Masaüstü\Yeni klasör (3)\Örnek soru 1\Örnek soru 2\obj\Debug\Örnek soru 2.pdb
